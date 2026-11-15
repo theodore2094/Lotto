@@ -1,4 +1,4 @@
-# LOTto — Full-Stack Lottery Web Application
+# Lotto — Full-Stack Lottery Web Application
 
 A full-stack 6-digit lottery platform built with **React 19**, **TypeScript**, **Tailwind CSS v4**, **Node.js / Express**, and **MySQL**. Customers can pick numbers, manage a persistent shopping cart, purchase tickets through atomic database transactions, and check winning results, while administrators manage draw lifecycles and execute live prize rolls.
 
