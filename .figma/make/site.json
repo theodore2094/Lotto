@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to interact with a dynamic web page featuring JavaScript, HTML, CSS, and Node.js, designed for seamless data handling and user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
